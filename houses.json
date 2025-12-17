@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Ocean View Apartment",
+    "city": "Miami",
+    "price": 1400,
+    "image": "assets/img/house1.jpg",
+    "beds": 2,
+    "baths": 1,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Cozy Mountain Cabin",
+    "city": "Denver",
+    "price": 2000,
+    "image": "assets/img/house2.jpg",
+    "beds": 3,
+    "baths": 2,
+    "available": false
+  }
+]
